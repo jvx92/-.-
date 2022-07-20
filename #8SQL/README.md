@@ -6,5 +6,4 @@
 Определить автора с самой высокой средней оценкой книг — учитывайте только книги с 50 и более оценками;  
 Посчитать среднее количество обзоров от пользователей, которые поставили больше 50 оценок.
 
- [SQL](https://github.com/jvx92/Yandex.Praktikum
-/SQL/blob/main/SQL.ipynb)
+ [SQL](https://github.com/jvx92/Yandex.Praktikum/blob/main/%238SQL/SQL.ipynb)
