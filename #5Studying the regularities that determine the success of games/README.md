@@ -2,6 +2,6 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
- [Анализ индустрии игр](https://github.com/jvx92/Studying-the-regularities-that-determine-the-success-of-games/blob/main/Studying%20the%20regularities%20that%20determine%20the%20success%20of%20games/games.ipynb) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры  | **Pandas, Matplotlib, NumPy**
+ [Анализ индустрии игр](https://github.com/jvx92/Yandex.Praktikum/blob/main/%235Studying%20the%20regularities%20that%20determine%20the%20success%20of%20games/games.ipynb) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры  | **Pandas, Matplotlib, NumPy**
 
  
